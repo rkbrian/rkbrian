@@ -1,11 +1,11 @@
 <p align="center">
-        <h1 align="center"> Hi there 👋</h1>
+        <h1 align="center"> 欢迎光临 👋</h1>
         <p align="center">
-                <a href="/doc_lan/readme_cn.md">简体中文</a>
+                <a href="readme.md">English</a>
         </p>
 </p>
-<h3> 🌱 Programming Learning Student</h3>
-I’m currently learning Low Level and Algorithms in Holberton School, and it is fun! But I am also actively looking for a entry level job to put my experiences in good uses.<br><br>
+<h3> 🌱 编程学生的自我介绍</h3>
+我目前就读于霍博顿学校（Holberton School），学习低级语言与算法，我也很喜欢这个方向。但我也在积极求职，期待有朝一日，我所学得的知识能得到实际运用。<br><br>
 
 <h3 align="center">
 
@@ -21,18 +21,3 @@ I’m currently learning Low Level and Algorithms in Holberton School, and it is
 ![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=flat&logo=gnu-bash&logoColor=white)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=flat&logo=flask&logoColor=white)
 </h3>
-
-
-<!--
-**rkbrian/rkbrian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
