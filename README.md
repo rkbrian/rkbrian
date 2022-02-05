@@ -5,11 +5,11 @@
         </p>
 </p>
 <h3> 🌱 Programming Learning Student</h3>
-I’m currently learning Low Level and Algorithms in Holberton School, and it is fun! But I am also actively looking for a entry level job to put my experiences in good uses.<br><br>
+I’m currently learning Low Level and Algorithms in Holberton School, and it is fun! But I am also actively looking for internships or entry level positions to put my experiences in good uses.<br><br>
 
 <h3 align="center">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkbrian&layout=compact&bg_color=5C4706,ECB60F,5C4706&theme=graywhite)](https://github.com/rkbrian/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkbrian&layout=compact&bg_color=5C4706,ECB60F,5C4706&theme=graywhite)](https://github.com/rkbrian/rkbrian.git)
 
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
