@@ -1,11 +1,8 @@
 <p align="center">
         <h1 align="center"> 欢迎光临 👋</h1>
-        <p align="center">
-                <a href="README.md">English</a>
-        </p>
 </p>
 <h3> 🌱 编程学生的自我介绍</h3>
-我目前就读于霍博顿学校（Holberton School），学习低级语言与算法，我也很喜欢这个方向。但我也在积极求职，期待有朝一日，我所学得的知识能得到实际运用。<br><br>
+我目前就读于霍博顿学校（Holberton School），学习低级语言与算法，我也很喜欢这个方向。同时我也在积极求职，期待有朝一日，我所学得的知识能得到实际运用。<br><br>
 
 <h3 align="center">
 
