@@ -1,7 +1,7 @@
 <p align="center">
         <h1 align="center"> 欢迎光临 👋</h1>
         <p align="center">
-                <a href="readme.md">English</a>
+                <a href="README.md">English</a>
         </p>
 </p>
 <h3> 🌱 编程学生的自我介绍</h3>

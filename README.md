@@ -1,7 +1,7 @@
 <p align="center">
         <h1 align="center"> Hi there 👋</h1>
         <p align="center">
-                <a href="/doc_lan/readme_cn.md">简体中文</a>
+                <a href="/doc_lan/README_cn.md">简体中文</a>
         </p>
 </p>
 <h3> 🌱 Programming Learning Student</h3>
