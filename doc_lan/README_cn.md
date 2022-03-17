@@ -8,6 +8,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rkbrian&layout=compact&bg_color=5C4706,ECB60F,5C4706&theme=graywhite)](https://github.com/rkbrian/github-readme-stats)
 
+<br>
+
+![Brian's GitHub stats](https://github-readme-stats.vercel.app/api?username=rkbrian&show_icons=true&theme=gruvbox_light&hide=stars)
 
 ![C](https://img.shields.io/badge/-C-000000?style=flat&logo=C)
 ![Python](https://img.shields.io/badge/-Python-000000?style=flat&logo=python)
