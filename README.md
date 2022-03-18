@@ -5,7 +5,7 @@
         </p>
 </p>
 <h3> 🌱 Programming Learning Student</h3>
-I’m a software engineer currently learning Low Level and Algorithms in Holberton School, and it is fun! But I am also actively looking for internships or entry level positions to put my experiences in good uses.<br><br>
+I’m a software engineer currently learning Low Level and Algorithms in Holberton School, and it is fun! But I am also actively looking for a full time job position to put my experiences in good uses.<br><br>
 
 <h3 align="center">
 
